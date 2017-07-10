@@ -1,0 +1,33 @@
+# Intellij
+/.idea
+*.iml
+
+# Netbeans
+nb-configuration.xml
+
+# Eclipse
+**/.metadata
+**/.settings/
+**/.factorypath
+**/.classpath
+**/.project
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Maven
+/target/
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
