@@ -15,8 +15,8 @@
 		<lombok.version>1.16.16</lombok.version>
 	</properties>
 	<scm>
-		<url>https://github.com/bertrandbo/maven-playground</url>
-		<connection>scm:git:https://github.com/bertrandbo/maven-playground.git</connection>
+		<url>https://github.com/adebolade/maven-playground</url>
+		<connection>scm:git:https://github.com/adebolade/maven-playground.git</connection>
 	  <tag>HEAD</tag>
   </scm>
 	<build>
