@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>bertrandbo</groupId>
 	<artifactId>jmvn-git-playground</artifactId>
-	<version>0.2-SNAPSHOT</version>
+	<version>0.2</version>
 	<name>Java Maven Git Playground</name>
 	<description>Play with Maven release management of a Java project in Git</description>
 	<properties>
