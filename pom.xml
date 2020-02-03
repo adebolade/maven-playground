@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>bertrandbo</groupId>
 	<artifactId>jmvn-git-playground</artifactId>
-	<version>0.4</version>
+	<version>0.5-SNAPSHOT</version>
 	<name>Java Maven Git Playground</name>
 	<description>Play with Maven release management of a Java project in Git</description>
 	<properties>
@@ -21,7 +21,7 @@
 	<scm>
 		<url>git@github.com:adebolade/maven-playground.git</url>
 		<connection>scm:git:git@github.com:adebolade/maven-playground.git</connection>
-	  <tag>0.4</tag>
+	  <tag>0.2</tag>
   </scm>
 	<build>
 		<plugins>
